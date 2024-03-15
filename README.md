@@ -1,2 +1,2 @@
-### Your lack of faith disturbs me. 👋
+### Your lack of faith disturbs me. 
 
