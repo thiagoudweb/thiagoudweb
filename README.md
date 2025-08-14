@@ -2,7 +2,10 @@
 
 **`UI/UX & Software Development`**  
 
-##                                  Tecnologias & Frameworks que ja trabalhei.
+                                  
+<p align="center">
+ ## Tecnologias & Frameworks que ja trabalhei.
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
