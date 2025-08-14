@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  UI/UX & Software Development`
+  UI/UX & Software Development
 </p>
                                   
 <p align="center">
