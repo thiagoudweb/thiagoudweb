@@ -25,10 +25,7 @@
 ---
 
 ## WIP
-<p align="center">  
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoudweb&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</p>
-
 <p align="center">
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoudweb&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=thiagoudweb&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak">
 </p>
