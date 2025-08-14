@@ -2,12 +2,7 @@
 <p align="center">
   Faz parte do rock 👋
 </p>
-
-
-<p align="center">
-  UI/UX & Software Development
-</p>
-                                  
+                          
 <p align="center">
   Tecnologias & Frameworks que ja trabalhei.
 </p>
