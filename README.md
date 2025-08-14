@@ -4,7 +4,7 @@
 
                                   
 <p align="center">
- ## Tecnologias & Frameworks que ja trabalhei.
+  Tecnologias & Frameworks que ja trabalhei.
 </p>
 
 <p align="center">
