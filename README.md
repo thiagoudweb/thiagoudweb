@@ -1,7 +1,9 @@
 ## Hi there 👋
 
-**`UI/UX & Software Development`**  
 
+<p align="center">
+  UI/UX & Software Development`
+</p>
                                   
 <p align="center">
   Tecnologias & Frameworks que ja trabalhei.
