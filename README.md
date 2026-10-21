@@ -1,6 +1,7 @@
 
 <p align="center">
-  Entusiasta e estudante de Inteligência Artificial aplicada a engenharia de software e processamento de dados. 👋
+  Entusiasta e estudante de Inteligência Artificial aplicada a engenharia de software e processamento de dados.
+                 Sinta-se livre para análisar minha organizações com projetos de ensino 👋
 </p>
                           
 <p align="center">
