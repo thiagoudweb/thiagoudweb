@@ -1,7 +1,12 @@
 
 <p align="center">
   Entusiasta e estudante de Inteligência Artificial aplicada a engenharia de software e processamento de dados.
-                 Sinta-se livre para análisar minha organizações com projetos de ensino 👋
+                 
+</p>
+
+<p align="center">
+  Sinta-se livre para analisar meus projetos com IA aplicada a ensino e Engenharia de software.
+                 
 </p>
                           
 <p align="center">
