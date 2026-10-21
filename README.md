@@ -1,6 +1,6 @@
 
 <p align="center">
-  Faz parte do rock 👋
+  Entusiasta e estudante de Inteligência Artificial aplicada a engenharia de software e processamento de dados. 👋
 </p>
                           
 <p align="center">
